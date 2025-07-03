@@ -1,12 +1,6 @@
-# React + Vite
+## 관련 학습 내용
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### TypeScript Type vs Interface 선택 기준
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- [TypeScript: 타입으로 정의할까, 인터페이스로 정의할까?](https://velog.io/@pureunkang/TS-%ED%83%80%EC%9E%85%EC%9C%BC%EB%A1%9C-%EC%A0%95%EC%9D%98%ED%95%A0%EA%B9%8C-%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4%EB%A1%9C-%EC%A0%95%EC%9D%98%ED%95%A0%EA%B9%8C)
+- 프로젝트 개발 중 외부 API 타입 정의 방법을 고민하며 정리한 내용입니다.
