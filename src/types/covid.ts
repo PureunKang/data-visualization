@@ -1,5 +1,4 @@
 // 외부 API 응답의 개별 객체 - 향후 필드 추가 가능성 있으므로 interface 사용
-// 또한, 배열 형태의 JSON 응답 구조를 interface
 interface CovidCountryData {
   updated: number;
   country: string;
