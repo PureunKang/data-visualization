@@ -7,4 +7,6 @@ const asyncCovidCountryDataAtom = atom(async () => {
   return data;
 });
 
-export const loadableAtom = loadable(asyncCovidCountryDataAtom);
+export const loadableCovidCountryDataAtomAtom = loadable(
+  asyncCovidCountryDataAtom
+);
