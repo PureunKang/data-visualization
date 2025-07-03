@@ -7,5 +7,5 @@
 
 ### Jotai 기본 사용법부터 비동기 fetching까지 – React 상태 관리 입문
 
-- [외부 API fetching 위한 Jotai 기초 학습] (https://velog.io/@pureunkang/%EC%99%B8%EB%B6%80-API-fetching-%EC%9C%84%ED%95%9C-Jotai-%EA%B8%B0%EC%B4%88-%ED%95%99%EC%8A%B5)
+- [외부 API fetching 위한 Jotai 기초 학습](https://velog.io/@pureunkang/%EC%99%B8%EB%B6%80-API-fetching-%EC%9C%84%ED%95%9C-Jotai-%EA%B8%B0%EC%B4%88-%ED%95%99%EC%8A%B5)
 - Jotai 사용에 앞서 필요한 사용법을 정리한 내용입니다.
